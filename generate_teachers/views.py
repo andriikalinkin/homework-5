@@ -12,3 +12,5 @@ def index(request):
 
 def generate_teachers(request):
     return HttpResponse("<h1>`generate_teachers` page</h1>")
+
+
